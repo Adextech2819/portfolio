@@ -101,6 +101,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ Star this repo if you find it helpful!
 
+# ADDITIONAL DETAILS
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
